@@ -83,5 +83,27 @@
   ],
   "auth": {
     "acessToken": "FSOYTKX3sXBUolURTrGdsH7LW3lyHsXcL9lBzTj56dD1F40Evyw9l8p5dyI9WCcJ"
-  }
+  },
+  "status": [
+    {
+      "nome": "Prospecção",
+      "id": 1
+    },
+    {
+      "nome": "Reunião",
+      "id": 2
+    },
+    {
+      "nome": "Orçamento",
+      "id": 3
+    },
+    {
+      "nome": "Desenvolvimento",
+      "id": 4
+    },
+    {
+      "nome": "Conclusão",
+      "id": 5
+    }
+  ]
 }
